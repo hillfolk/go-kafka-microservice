@@ -1,0 +1,12 @@
+GET http://localhost:8082/api/ping
+Accept: application/json
+
+
+###
+
+
+GET http://localhost:8082/api/accounts
+Accept: application/json
+
+
+###

@@ -1,0 +1,17 @@
+GET http://localhost:8081/api/ping
+Accept: application/json
+
+
+###
+
+POST http://localhost:8081/api/investments
+Content-Type: application/json
+
+{
+  "amount": 100,
+  "qty": 1,
+  "account_number": "1111"
+}
+
+
+###
